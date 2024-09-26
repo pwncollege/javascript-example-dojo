@@ -1,5 +1,4 @@
 id: "javascript-example"
 name: JavaScript Example
-type: public
 modules:
 - id: "test"
